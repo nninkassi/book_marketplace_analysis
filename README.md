@@ -71,7 +71,8 @@
     
 - [ER-диаграмма](diagrams/db.svg)
   
-- Sequence-диаграммы: [оформление заказа](diagrams/OrderSequence.svg),
+- Sequence-диаграммы:
+  - [оформление заказа](diagrams/OrderSequence.svg),
   - [Сборка и доставка](diagrams/ShipmentSequence.svg),
   - [Уведомления](diagrams/MailSequence.svg),
   - [Регистрация](diagrams/RegistrationSequence.svg),
