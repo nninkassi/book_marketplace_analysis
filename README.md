@@ -59,3 +59,15 @@
 - Ролевая модель с 401/403 на уровне API при отсутствии аутентификации/прав
 - Жизненный цикл персональных данных по 152-ФЗ "О персональных данных": согласие при регистрации, удаление аккаунта и данных по требованию пользователя
 
+## Диаграммы
+- [Use case](diagrams/UseCase.svg)
+- [BPMN](diagrams/bpmn-order-process.svg)
+- C4-модель: [контекст](diagrams/c1.svg), [контейнеры](diagrams/c2.svg),
+  [компоненты](diagrams/c3.svg)
+- [ER-диаграмма](diagrams/db.svg)
+- Sequence-диаграммы: [оформление заказа](diagrams/OrderSequence.svg),
+  [сборка и доставка](diagrams/ShipmentSequence.svg),
+  [уведомления](diagrams/MailSequence.svg),
+  [регистрация](diagrams/RegistrationSequence.svg),
+  [добавление товара](diagrams/CreateProductSequence.svg)
+
