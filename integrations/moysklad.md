@@ -8,7 +8,7 @@ M-1. Синхронизировать карточку товара
 Условия вызова: успешная валидация данных товара в Catalog API
 Метод и URL: POST https://api.moysklad.ru/api/remap/1.2/entity/product
 Тело запроса:
-{
+```{
   "syncId": "products.idempotance_key",
   "name": "products.title",
   "article": "products.products_sku",
@@ -25,7 +25,8 @@ M-1. Синхронизировать карточку товара
       }
     }
   ]
-}
+}```
+
 Обработка ответов:
 
 |     Ответ интеграции                       |     Действия   системы                                                                                    |     Ответ   вызывающей стороне    |   |
