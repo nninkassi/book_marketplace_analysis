@@ -65,17 +65,17 @@
 - [BPMN](diagrams/bpmn-order-process.svg)
   
 - C4-модель:
-  - [контекст](diagrams/c1.svg)
-  - [контейнеры](diagrams/c2.svg)
-  - [компоненты](diagrams/c3.svg)
+  - [Контекст](diagrams/c1.svg)
+  - [Контейнеры](diagrams/c2.svg)
+  - [Компоненты](diagrams/c3.svg)
     
 - [ER-диаграмма](diagrams/db.svg)
   
 - Sequence-диаграммы: [оформление заказа](diagrams/OrderSequence.svg),
-  [сборка и доставка](diagrams/ShipmentSequence.svg),
-  [уведомления](diagrams/MailSequence.svg),
-  [регистрация](diagrams/RegistrationSequence.svg),
-  [добавление товара](diagrams/CreateProductSequence.svg)
+  - [Сборка и доставка](diagrams/ShipmentSequence.svg),
+  - [Уведомления](diagrams/MailSequence.svg),
+  - [Регистрация](diagrams/RegistrationSequence.svg),
+  - [Добавление товара](diagrams/CreateProductSequence.svg)
 
 ## Документы
 - [Описание 26 эндпоинтов API](api/endpoints.md)
