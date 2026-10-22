@@ -62,7 +62,7 @@
 ## Диаграммы
 - [Use case](diagrams/UseCase.svg)
   
-- [BPMN](diagrams/bpmn-order-process.svg)
+- [BPMN](diagrams/bpmn.svg)
   
 - C4-модель:
   - [Контекст](diagrams/c1.svg)
